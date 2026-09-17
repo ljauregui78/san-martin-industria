@@ -1,0 +1,641 @@
+﻿San Martín: la capital que dejó de cuidar su industria
+Diagnóstico comparado de la política productiva municipal en el Conurbano bonaerense y propuestas para recuperar competitividad
+
+
+Carlos Ramón Brown ACEP San Martín · Movimiento Productivo Argentino
+
+
+Septiembre de 2026
+
+
+________________
+
+
+Síntesis
+General San Martín concentra 35.983 puestos de trabajo industrial formal, el 10,61% de todo el empleo fabril del Conurbano bonaerense. Es el segundo distrito del área metropolitana, detrás de La Matanza.
+
+
+El título que lleva no es una metáfora. La ley 27.110, sancionada por el Congreso de la Nación el 17 de diciembre de 2014 y publicada en el Boletín Oficial el 3 de febrero de 2015, declaró a General San Martín Capital Nacional de la Pequeña y Mediana Empresa Industrial. Quien firma este informe fue uno de los autores de ese proyecto, junto con Graciela Camaño y Leonardo Grosso.
+
+
+Hoy San Martín sigue siendo grande y dejó de ser dinámico. Entre enero de 2024 y junio de 2025 perdió 3,93% de sus puestos industriales, contra un promedio del Conurbano de 2,55%. El propio municipio informa que el empleo industrial local cayó 6,3% hacia fines de 2025, con ocho trimestres consecutivos en baja, y que el uso de la capacidad instalada de sus fábricas pasó del 68% en 2022 al 46% en 2025.
+
+
+La crisis industrial es nacional. Veintidós de los veinticuatro municipios del Conurbano perdieron empleo fabril en 2024. Pero dos vecinos inmediatos, con la misma macroeconomía y el mismo mercado interno, terminaron ese año en terreno positivo, y un tercero cayó menos de la mitad que San Martín. La diferencia no está en el contexto. Está en lo que cada gobierno local hizo con el margen que tenía.
+
+
+Ese margen es acotado. Las tasas municipales pesan poco en la estructura de costos de una pyme frente a los impuestos nacionales, las cargas sociales, la energía y el flete. Pero el margen existe, es enteramente local y es lo único que un intendente decide por sí mismo. San Martín lo utilizó mediante instrumentos de alivio y promoción acotados, aunque todavía sin un horizonte comparable al de los regímenes de largo plazo analizados en este informe.
+
+
+Los números que sostienen esa afirmación son del propio municipio. En el presupuesto 2026, la Secretaría de la Producción y Desarrollo recibe el 1,12% del total, menos de la mitad de lo que recibe el Concejo Deliberante, y de ese 1,12% el Observatorio Socioeconómico Municipal (la oficina que produce el diagnóstico sobre la caída industrial citado más arriba) concentra por sí solo el 1,05% ($39.000.000 sobre $3.726.890.000). El programa específico de Promoción Industrial ejecutó $9.734.788 en el primer semestre de 2026, sobre un presupuesto vigente de $400.567 millones. El programa de Habilitaciones y Permisos ejecutó $61.261. El de Eficiencia Energética, cero.
+
+
+Mientras tanto, las remuneraciones se llevaron el 55,4% del gasto corriente devengado en ese mismo semestre, contra un promedio provincial de 46,1%, y la inversión real directa ejecutada fue de $1.608 millones, cincuenta veces menos que lo pagado en sueldos.
+
+
+El diagnóstico reconoce instrumentos municipales vigentes que deben incorporarse a la comparación: el Programa de Promoción MiPyME, el Portal de Autogestión y las Habilitaciones Express, y el Plan de Alivio Fiscal para PyMEs. Son medidas concretas, pero de alcance y horizonte más acotados que los regímenes estructurales de promoción, estabilidad tributaria y habilitación automática analizados en municipios vecinos.
+
+Este informe compara ese desempeño con el de tres distritos vecinos que tomaron caminos distintos, de tres signos políticos distintos, y cierra con diecisiete propuestas concretas ordenadas por nivel de gobierno.
+
+
+________________
+
+
+1. San Martín: el peso y la caída
+1.1 Sigue siendo grande
+A junio de 2025 el Conurbano bonaerense tenía 339.110 puestos de trabajo industrial formal, contra 346.809 en enero de 2019. La región perdió 2,3% de su empleo fabril en seis años y medio.
+
+
+Dentro de ese universo la concentración es marcada. Cinco municipios reúnen el 47,5% del empleo industrial de todo el Conurbano:
+
+
+Municipio
+	Puestos industriales formales (junio 2025)
+	Participación
+	La Matanza
+	39.533
+	11,66%
+	General San Martín
+	35.983
+	10,61%
+	Tigre
+	29.506
+	8,70%
+	Vicente López
+	29.254
+	8,63%
+	Tres de Febrero
+	26.672
+	7,87%
+	
+
+San Martín no perdió su escala. Uno de cada diez puestos industriales del Conurbano está en el partido. Eso importa por dos razones: el distrito conserva un activo que muy pocos territorios del país tienen, y lo que le pasa a San Martín arrastra al agregado regional.
+1.2 Dejó de ser dinámico
+El mismo informe ordena a los veinticuatro partidos según la variación del empleo industrial entre enero de 2024 y junio de 2025:
+
+
+Municipio
+	Variación
+	Ezeiza
+	+8,63%
+	José C. Paz
+	+2,84%
+	Moreno
+	+1,84%
+	Tres de Febrero
+	+1,37%
+	San Miguel
+	+0,27%
+	Malvinas Argentinas
+	+0,14%
+	Morón
+	-1,04%
+	Vicente López
+	-2,55%
+	Hurlingham
+	-2,77%
+	Almirante Brown
+	-3,77%
+	La Matanza
+	-3,85%
+	General San Martín
+	-3,93%
+	Florencio Varela
+	-4,12%
+	San Isidro
+	-4,36%
+	Tigre
+	-4,44%
+	Quilmes
+	-4,50%
+	Esteban Echeverría
+	-4,83%
+	Berazategui
+	-4,88%
+	Avellaneda
+	-5,14%
+	Ituzaingó
+	-5,96%
+	Lanús
+	-7,22%
+	Merlo
+	-8,80%
+	San Fernando
+	-12,35%
+	Lomas de Zamora
+	-12,88%
+	Promedio del Conurbano
+	-2,55%
+	
+
+San Martín queda en el puesto doce, por debajo del promedio regional. No está entre los peores. Lomas de Zamora, San Fernando y Merlo atraviesan una situación mucho más grave, vinculada al peso del textil, la indumentaria y el calzado en su estructura productiva. El informe de la UNSAM ubica a San Martín en un grupo intermedio, junto con La Matanza, Vicente López, Quilmes y Avellaneda, con caídas en 2024 y desaceleración visible en 2025.
+
+
+El problema no es el puesto en la tabla. Es que la capital nacional de la pyme industrial está por debajo del promedio mientras dos vecinos con muchísima menos tradición fabril están por encima.
+1.3 El diagnóstico del propio municipio
+El Observatorio Socioeconómico Municipal de General San Martín, financiado con una partida de $39 millones en el presupuesto 2026, publicó datos más duros que los del SIPA.
+
+
+Según ese relevamiento, el empleo industrial del distrito cayó 6,3% hacia fines de 2025, con ocho trimestres consecutivos de deterioro y sin ningún registro positivo desde 2023. El secretario de Producción y Desarrollo Económico del municipio, Alejandro Tsolis, cuantificó públicamente en 3.000 los puestos industriales destruidos en el distrito desde diciembre de 2023.
+
+
+El dato más elocuente es el uso de la capacidad instalada de las fábricas sanmartinenses:
+
+
+Año
+	Uso de capacidad instalada
+	2022
+	68%
+	2023
+	60%
+	2024
+	54%
+	2025
+	46%
+	
+
+Más de la mitad del parque industrial del distrito está ocioso. La Cámara Económica Sanmartinense, en su Monitor PyME de julio de 2026, informó que el 82,4% de las pymes locales consultadas registró caída de ventas en la comparación interanual.
+
+
+Estos números no están en discusión y no hacen falta fuentes externas para sostenerlos. Los publica el municipio y los publica la cámara empresaria del distrito.
+
+
+________________
+
+
+2. Cuánto vale la industria en el presupuesto de San Martín
+2.1 El presupuesto sancionado
+El presupuesto 2026 de la Municipalidad de General San Martín, aprobado en diciembre de 2025, asciende a $333.980.910.000. Su distribución por jurisdicción es la siguiente:
+
+
+Jurisdicción
+	Monto
+	% del total
+	Secretaría de Obras y Servicios Públicos
+	$100.664.780.000
+	30,14%
+	Jefatura de Gabinete
+	$74.452.850.000
+	22,29%
+	Secretaría de Salud
+	$72.220.530.000
+	21,62%
+	Secretaría de Economía y Coordinación de Gestión
+	$29.686.713.957
+	8,89%
+	Secretaría para la Integración Educativa, Cultural y Deportiva
+	$26.129.790.000
+	7,82%
+	Secretaría de Mujeres, Géneros e Infancias
+	$11.327.860.000
+	3,39%
+	Honorable Concejo Deliberante
+	$6.611.320.000
+	1,98%
+	Secretaría de la Producción y Desarrollo
+	$3.726.890.000
+	1,12%
+	Partidas no asignables a programas
+	$3.082.936.043
+	0,92%
+	Unidad Intendente
+	$2.934.650.000
+	0,88%
+	Secretaría de Legal y Técnica
+	$2.516.790.000
+	0,75%
+	Agencia para la Promoción del Empleo
+	$625.800.000
+	0,19%
+	Total
+	$333.980.910.000
+	100%
+	
+
+El Concejo Deliberante recibe 1,77 veces lo que recibe toda el área productiva del municipio.
+
+
+La participación de la Secretaría de la Producción en el presupuesto creció en los últimos años: 0,30% en 2020, 0,26% en 2021, 0,71% en 2022, 0,70% en 2023, 0,92% en 2024, 1,04% en 2025 y 1,12% en 2026. Casi se cuadruplicó. Pero ese incremento no fue suficiente, o no se usó bien, para sostener e impulsar la producción y el desarrollo.
+
+
+Un distrito que se define a sí mismo como capital nacional de la pyme industrial, con 35.983 puestos fabriles y más de dos mil establecimientos industriales, destina a su política productiva poco más de un peso de cada cien.
+2.2 La ejecución: lo que efectivamente se gastó
+El estado de situación económico financiera del primer semestre de 2026, firmado por el intendente Fernando Moreira, el secretario de Economía y Coordinación de Gestión, la contadora municipal y el tesorero, desagrega el gasto por programa. Sobre un presupuesto vigente ampliado a $400.567.135.774, los programas productivos ejecutaron lo siguiente entre el 1 de enero y el 30 de junio de 2026:
+
+
+Programa
+	Crédito vigente
+	Devengado
+	Promoción Industrial
+	$13.800.000
+	$9.734.788
+	Fortalecimiento Productivo
+	$15.000.000
+	$540.000
+	Agencia de Promoción de Exportaciones
+	$13.100.000
+	$4.738.595
+	Centro de Producción
+	$16.000.000
+	$6.196.625
+	Comercio
+	$19.799.500
+	$14.566.781
+	Finanzas Solidarias
+	$18.497.500
+	$9.928.822
+	Habilitaciones y Permisos
+	$7.531.000
+	$61.261
+	Eficiencia Energética
+	$10.000.000
+	$0
+	Observatorio Socioeconómico
+	$39.000.000
+	$14.202.847
+	
+
+El núcleo estrictamente industrial, sumando Promoción Industrial, Fortalecimiento Productivo, Agencia de Exportaciones y Centro de Producción, ejecutó $21.210.008 en seis meses. Es el 0,005% del presupuesto vigente del municipio.
+
+
+Para dimensionarlo: en ese mismo semestre el programa de Higiene Urbana devengó $27.127.874.049 y el Concejo Deliberante $2.875.136.085. El cuerpo legislativo del partido gastó 135 veces más que todos los programas industriales juntos.
+
+
+El programa de Habilitaciones y Permisos merece un párrafo propio. Tenía $7.531.000 asignados y ejecutó $61.261, menos del uno por ciento. Esa baja ejecución debe leerse junto con los instrumentos que el municipio sí tiene en funcionamiento: un Portal de Autogestión de Comercios e Industrias y un Asesor Virtual de Habilitaciones Express. Su existencia muestra avances en digitalización, aunque no equivale a una habilitación gratuita, instantánea y universal como la aplicada en otros distritos.
+
+Antes de comparar con los municipios vecinos, corresponde reconocer los instrumentos vigentes de San Martín. El Programa de Promoción MiPyME ofrece a comercios e industrias que se habilitan descuentos de hasta el 100% en derechos de habilitación y tasas comerciales durante dos años. El municipio también dispone de un Portal de Autogestión y de un Asesor Virtual de Habilitaciones Express. Estas herramientas corrigen la afirmación de que no existe ningún régimen ni canal digital, aunque no equivalen a una habilitación gratuita y automática para todos ni ofrecen el horizonte de diez, quince o treinta años de los regímenes comparados.
+
+En el marco de la Emergencia Económica 2026, el municipio lanzó además un Plan de Alivio Fiscal para PyMEs que permite regularizar deudas vencidas al cierre de 2025 con quitas de intereses de hasta el 50%, hasta 48 cuotas y anticipos desde el 5%. Es una medida relevante para contribuyentes con deuda, pero su naturaleza es transitoria: regulariza obligaciones pasadas y no constituye por sí sola un régimen estructural de promoción de nuevas inversiones.
+
+
+Una observación adicional sobre transparencia presupuestaria: $244.057.984.112 del presupuesto vigente, el 61% del total, figuran bajo el rubro "Actividades Centrales", sin desagregación por programa. Es una imputación admitida por el régimen RAFAM y no constituye por sí misma una irregularidad, pero implica que casi dos tercios del gasto del municipio no son rastreables por política pública.
+
+
+________________
+
+
+3. La estructura tributaria: qué le cobra San Martín a quien produce
+3.1 La Tasa por Inspección de Seguridad e Higiene
+La Ordenanza Impositiva 2026 fija en su artículo 14 una alícuota general de la TISH del cinco por mil para actividades industriales, comerciales y de servicios. Esa es la cifra que el municipio comunica.
+
+
+Pero ese cinco por mil es solo el primer escalón. La tasa asciende al siete por mil (art. 15), al ocho por mil (art. 16), al doce por mil (art. 17) y llega al quince por mil (art. 18) según tramos de facturación: para el sector industrial, desde los $558,6 millones anuales que dan el salto al 7‰ hasta los $7.969,7 millones que llevan al 15‰. La base para determinar en qué tramo cae cada contribuyente incluye el total de ingresos gravados, no gravados y exentos por cualquier actividad dentro o fuera del municipio, incluidos los obtenidos en otras jurisdicciones provinciales.
+
+
+Esto merece decirse con claridad. Una tasa municipal que se gradúa según la facturación total del contribuyente en todo el país no retribuye un servicio de inspección: funciona como un impuesto sobre los ingresos brutos de nivel local. Es el mismo tipo de tributo distorsivo que el sector productivo viene cuestionando hace décadas en las retenciones y en Ingresos Brutos, aplicado ahora a escala municipal.
+
+
+Hay un segundo elemento, menos comentado y más grave para el empleo. Cuando la tasa calculada no supera el mínimo, el contribuyente paga ese mínimo, y el mínimo se fija por cantidad de titulares y dependientes: 170 módulos fiscales por uno, 260 por dos, 350 por tres, y 100 módulos fiscales adicionales por cada persona por encima de tres. Para quienes operan en shoppings, hipermercados o el microcentro comercial del distrito el piso es todavía mayor: 238, 364 y 490 módulos, más 140 por adicional. El valor del módulo fiscal, actualizado periódicamente por la Autoridad de Aplicación, pasó de $89 a $94 a partir del 1° de septiembre de 2026: cada trabajador incorporado por encima del tercero agrega hoy $9.400 mensuales de piso tributario, contra $8.900 hasta agosto.
+
+
+Un municipio que dice defender el empleo industrial cobra más por cada trabajador que una empresa contrata.
+
+
+Corresponde consignar que la exigibilidad de esta tasa está siendo discutida judicialmente. En la causa "Freudenberg S.A. c/ Municipalidad de General San Martín s/ Pretensión anulatoria", la Cámara de Apelación en lo Contencioso Administrativo de San Martín resolvió que el hecho imponible de la TISH solo se configura cuando el municipio acredita inspecciones reales, verificables y vinculadas específicamente al contribuyente, y que la carga de esa prueba recae sobre la administración municipal. Una firma radicada en el distrito tuvo que litigar contra su propio municipio por una tasa cuya contraprestación no se acreditaba.
+3.2 La Tasa de Recuperación Vial
+El artículo 87 de la Ordenanza Impositiva 2026 establece la Tasa de Recuperación Vial en un 35% de la Tasa por Aseo, Limpieza y Servicios Municipales Indirectos.
+
+
+Es un recargo sobre el tributo inmobiliario. Para una industria eso significa un costo que crece con los metros cuadrados de la planta y no con su rentabilidad: la fábrica que ocupa un galpón grande y factura poco paga igual que la que ocupa lo mismo y factura mucho.
+
+
+El dato relevante es el contexto regional. El informe fiscal de la Provincia señala que en los municipios del Conurbano la tasa por Red Vial prácticamente no tiene presencia, porque es un tributo ligado a la actividad agropecuaria del interior bonaerense, donde llega a representar entre el 25% y el 28% de la recaudación de tasas. San Martín aplica un recargo vial del 35% en una región donde la norma es no cobrarlo. Tres de Febrero, en cambio, no lo aplica.
+3.3 El contexto provincial
+Nada de esto es un problema exclusivo de San Martín, y el informe provincial lo demuestra. En la última década la TISH pasó de representar el 36% de la recaudación de tasas y derechos de los municipios bonaerenses al 47% en 2024, mientras el ABL cayó del 38% al 29%. En el Conurbano la TISH alcanza el 48%.
+
+
+Los municipios bonaerenses se financian cada vez más gravando la actividad productiva y cada vez menos gravando el patrimonio. Es una deriva estructural que excede a cualquier intendente y que merece un debate provincial, no solo local.
+
+
+________________
+
+
+4. La contracara: personal e inversión
+4.1 Remuneraciones
+El estado de ejecución de gastos por carácter económico al 30 de junio de 2026 informa remuneraciones devengadas por $80.171.040.150, sobre un gasto corriente devengado de $144.746.867.047.
+
+
+El gasto en personal representa el 55,4% del gasto corriente de San Martín. El informe provincial mide exactamente ese indicador para los 135 municipios bonaerenses en 2024: el promedio consolidado fue 46,1% y el promedio simple 53,3%. San Martín está por encima de ambos.
+
+
+Medido sobre el presupuesto sancionado el cuadro es todavía más claro. De los $333.980.910.000 aprobados para 2026, $162.640.850.000 corresponden a remuneraciones: el 48,7%. Casi la mitad del presupuesto está comprometida en sueldos antes de que empiece el ejercicio. Es cuarenta y cuatro veces lo asignado a la Secretaría de la Producción.
+
+
+Este informe no afirma que la planta municipal haya crecido, porque no dispone de la serie histórica de ejecuciones que permitiría sostenerlo. El dato provincial disponible es que los agentes municipales bonaerenses pasaron de 222.355 en 2015 a 268.091 en 2023, un aumento del 21% en ocho años, y se redujeron 2% en 2024.
+
+
+Lo que sí corresponde señalar es un vacío de información. El municipio publica el gasto en personal y lo publica trimestralmente, lo cual está bien. Lo que no publica es la dotación: cuántos agentes tiene, en qué categorías y bajo qué modalidad de contratación. La Ley Orgánica de las Municipalidades exige que la dotación de personal se apruebe junto con el cálculo de recursos, y otros distritos del Conurbano informan ese cuadro de cargos con detalle. Morón, por ejemplo, publica en el artículo 9 de su presupuesto 2026 un total de 7.839 cargos autorizados, discriminados en 4.463 de planta permanente y 3.376 de planta temporaria; su nómina efectiva de febrero de 2025 registraba 7.120 agentes en funciones (4.427 de planta permanente y 2.693 temporarios), un margen entre lo autorizado y lo ocupado que San Martín ni siquiera permite estimar porque no publica el dato base.
+
+
+Circulan en la prensa local estimaciones de alrededor de diez mil personas vinculadas laboral o contractualmente con la Municipalidad de San Martín. No se adoptan en este trabajo, porque no pudieron confirmarse en documentación oficial accesible; el dato debería ser público y no lo es, y corresponde que el Concejo Deliberante lo requiera formalmente.
+
+
+Más allá del número final de empleados públicos con que cuente el municipio, lo que puede afirmarse es que esa dotación no se traduce en más eficiencia ni celeridad para los trámites. Como mínimo, debería asumirse el compromiso de no seguir ampliando la planta municipal.
+4.2 Inversión
+Acá está el número más difícil de defender para la gestión.
+
+
+El presupuesto 2026 asignó a gastos de capital $5.268.249.012: el 1,58% del total. Durante el ejercicio esa partida se amplió a $14.879.668.729, que sigue siendo el 3,7% del presupuesto vigente. El promedio de los municipios bonaerenses en 2024, que ya fue un año de derrumbe de la inversión local, fue del 9%.
+
+
+En ejecución, la formación bruta de capital fijo devengada en el primer semestre de 2026 fue de $1.608.212.817.
+
+
+Por cada peso que San Martín puso en obra durante seis meses, pagó cincuenta en sueldos.
+
+
+El mismo estado de ejecución informa inversión financiera devengada por $24.869.761.670, entre adquisición de títulos y valores e incremento de otros activos financieros. Conviene leer ese dato con cuidado, porque se trata de un flujo que incluye renovaciones de colocaciones transitorias y no del stock que el municipio mantiene invertido. Pero la proporción es difícil de justificar: quince pesos movilizados hacia colocaciones financieras por cada peso ejecutado en inversión real directa.
+
+
+Esto también tiene contexto provincial, y también lo agrava. En 2024 los 135 municipios bonaerenses cerraron con un superávit financiero consolidado de $628.812 millones, equivalente al 8,4% de sus ingresos, y con un stock de deuda del 0,5% de los ingresos corrientes, el más bajo de la serie. Tenían superávit, tenían crédito disponible y casi no tenían deuda. Aun así, el gasto de capital municipal cayó 65% en términos reales.
+
+
+El municipio tenía margen para invertir y eligió no hacerlo.
+
+
+________________
+
+
+5. Qué hicieron los vecinos
+La comparación que sigue cruza tres gestiones de signo político distinto. Tres de Febrero, conducido desde diciembre de 2025 por Rodrigo Aybar como intendente interino tras la salida de Diego Valenzuela, electo senador nacional por La Libertad Avanza; San Miguel por Jaime Méndez y Morón por Lucas Ghi. Dos de los tres provienen del peronismo. Si el lector esperaba que los datos ordenaran a los municipios según su color político, este informe lo va a defraudar.
+5.1 Tres de Febrero: previsibilidad y costo de entrada
+Es el comparador más exigente y el más legítimo. Tres de Febrero limita con San Martín, comparte el mismo corredor industrial sobre la General Paz y el Reconquista, tiene una densidad y una escasez de suelo equivalentes, y es el quinto distrito del Conurbano en volumen de empleo fabril con 26.672 puestos. No es un distrito chico al que le rinden los porcentajes.
+
+
+El esquema que se describe a continuación fue diseñado desde 2022 por Diego Valenzuela, intendente hasta diciembre de 2025, cuando dejó el cargo al asumir como senador nacional por La Libertad Avanza. Desde entonces lo continúa, sin cambios de rumbo, Rodrigo Aybar, primer concejal electo en 2023 y hoy intendente interino.
+
+
+Lo que se hizo desde 2022:
+
+
+Costo de entrada. Habilitación gratuita para todo comercio, pyme o industria que se instale, sin distinción de rubro ni tamaño. Eliminación de la Dirección de Habilitaciones y creación en su reemplazo de una Dirección de Inversiones y Emprendedores. Habilitación instantánea por declaración jurada para más de setenta rubros. Eliminación de siete capítulos completos de la Ordenanza Fiscal Impositiva.
+
+
+Costo operativo. No se aplica la Tasa Vial. Crédito fiscal por incorporación de personal equivalente al 45% del salario mínimo vital y móvil durante seis meses, que asciende al 55% cuando se trata de mujeres o personas de grupos vulnerables. El crédito fiscal es aplicable al pago de tributos municipales, transferible a otros contribuyentes del distrito y utilizable para cancelar deuda.
+
+
+Previsibilidad. En junio de 2025 el Concejo Deliberante aprobó el primer régimen de incentivos a la inversión de nivel municipal del país. Las industrias que inviertan entre diez y veinte millones de dólares quedan exentas de la TISH durante un año y acceden a una bonificación del 50% durante los nueve siguientes. Para inversiones superiores a veinte millones el beneficio se extiende a catorce años de tasa reducida a la mitad, y hasta quince si la empresa ya está radicada en el distrito. Se sumaron un régimen de estabilidad tributaria que congela la TISH por treinta años y una ordenanza que sanciona el bloqueo de establecimientos productivos.
+
+
+En junio de 2026 Mercado Libre se convirtió en la primera empresa en suscribir ese régimen.
+
+
+Los resultados disponibles: Tres de Febrero fue uno de los dos únicos municipios del Conurbano que sostuvo crecimiento del empleo industrial durante todo 2024, con +0,65%. Acumuló +1,37% entre enero de 2024 y junio de 2025, +2,98% en los doce meses previos a junio de 2025 y +0,46% en el primer semestre de 2025. En el Índice de Gestión Estratégica de Ciudades de la Facultad de Ciencias Económicas de la UBA, que evaluó a los veinticuatro partidos del Conurbano sobre 31 variables y 159 indicadores, lidera la dimensión de desarrollo económico con 3,57 puntos.
+
+
+Un dato final que desarma la objeción presupuestaria. Tres de Febrero hizo todo esto con menos recursos por habitante que San Martín: su presupuesto 2026 es de $189.429 millones para unos 360 mil habitantes, cerca de $520.000 por vecino, contra los aproximadamente $739.000 de San Martín. Y destina a personal el 26,76% de su gasto total, la mitad que su vecino.
+
+
+No se trató de gastar más. Se trató de cobrar menos, decidir antes y comprometerse a plazo. Y de sostenerlo más allá de quién ocupe el sillón del intendente.
+5.2 San Miguel: el trámite en veinticuatro horas
+San Miguel es un comparador parcial y hay que decirlo antes de usarlo. Tiene 3.710 puestos industriales formales, poco más de una décima parte de San Martín. El propio informe de la UNSAM advierte que su base baja vuelve volátil cualquier variación porcentual. Su +2,32% de 2024 representa unas ochenta personas.
+
+
+Dicho eso, hay dos cosas que San Miguel hizo bien y que San Martín podría copiar mañana.
+
+
+La primera es la habilitación comercial online, gratuita y en veinticuatro horas para locales de hasta 200 metros cuadrados de superficie cubierta, con un descuento del 50% para los que superan esa superficie. El comerciante no recibe una factura: recibe directamente el número de cuenta del comercio habilitado.
+
+
+La segunda es un régimen de exenciones industriales escalonadas de hasta diez años, con 100% de eximición durante los primeros cuatro, 70% entre el quinto y el séptimo y 30% entre el octavo y el décimo, aplicable a tasa de servicios, habilitación, seguridad e higiene, publicidad, derechos de oficina y derechos de construcción. El escalonamiento es más inteligente que la exención plana: acompaña la maduración del proyecto en lugar de regalar una década entera.
+
+
+A eso se suma un parque industrial dotado de subestación eléctrica propia, red de gas, desagües pluviales e industriales, seguridad, telefonía e internet, con salida al Camino del Buen Ayre y a la Ruta 8, y una segunda etapa de ampliación proyectada.
+
+
+En el índice de la UBA, San Miguel lidera la dimensión de sociedad con 3,59 puntos y figura entre los primeros en desempeño político-institucional y desarrollo económico.
+5.3 Morón: la demostración de que no todo es impuestos
+Morón es el caso que obliga a matizar la tesis de este informe, y precisamente por eso hay que incluirlo.
+
+
+Morón tiene más presión fiscal que San Martín y una estructura de personal más pesada. Y sin embargo cayó 1,04% entre enero de 2024 y junio de 2025, el mejor desempeño de todos los grandes distritos industriales consolidados del Conurbano, y terminó los doce meses previos a junio de 2025 en terreno positivo.
+
+
+Si bajar impuestos fuera la única variable relevante, Morón debería estar peor que San Martín. No lo está.
+
+
+Su Ordenanza Fiscal e Impositiva, reglamentada por los Decretos 3000/23 y 3001/23, confirma que la presión fiscal industrial no es una impresión. El artículo 24 fija para el sector industrial una escala del 7‰ al 16‰ según tramos de ingresos brutos mensuales, más alta que el techo de San Martín en casi todos los tramos, con un mínimo mensual que no se calcula por cantidad de empleados, como en San Martín, sino por Nivel de Complejidad Ambiental de la actividad: de 20.412 módulos en la categoría más baja a 116.640 en la más alta. Es una estructura que castiga más, no menos, a la industria ambientalmente compleja. Y aun así el distrito retiene inversión y empleo mejor que su vecino.
+
+
+El presupuesto 2025 de Morón por carácter económico confirma el patrón en el otro extremo de la cuenta. El gasto en personal representa el 52,9% del gasto corriente ($82.008 millones sobre $155.024 millones), un nivel cercano al 55,4% de San Martín. La diferencia decisiva está en la inversión: el gasto de capital equivale al 15,78% del presupuesto total y la formación bruta de capital fijo al 14,1%, contra el 1,58% y el 3,7% de San Martín. Y la nómina de personal de febrero de 2025 registra 7.120 agentes, 4.427 de planta permanente y 2.693 temporarios, sobre 7.839 cargos autorizados para 2026: un dato público y verificable que San Martín no ofrece ni en una ni en otra dimensión.
+
+
+Lo que Morón tiene y San Martín no es, además, una política industrial articulada:
+
+
+Cuatro parques industriales en funcionamiento. La Cantábrica, con 51 empresas de los rubros alimenticio, caucho, madera, metalmecánica, metalurgia, plásticos, química y servicios, y una tercera etapa de ampliación proyectada para incorporar 17 industrias más. El Parque Industrial Tecnológico Aeronáutico, administrado por el municipio, con 19 empresas e integrado a un ecosistema que incluye dos aeropuertos, dos bases aéreas y veinte empresas certificadas por la ANAC. El Parque Industrial Morón y el Parque Industrial DECA.
+
+
+Gobernanza tripartita. La Cantábrica se administra a través del Ente de Promoción Industrial Buenos Aires-Morón, integrado por el gobierno provincial, el municipio y la Unión Industrial del Oeste. La conducción del parque no depende de quién gane la próxima elección.
+
+
+Dirección de Promoción Industrial con ventanilla técnica. El municipio acerca a las pymes y cooperativas del distrito la oferta tecnológica del INTI de forma directa.
+
+
+Política de mercados. El Clúster Energético y Minero de Morón nuclea a dieciséis empresas locales y llevó adelante una misión comercial a Neuquén y Río Negro para vincularlas con la cadena de valor de Vaca Muerta.
+
+
+Resultados de radicación. La firma Brogas, proveniente de la Ciudad de Buenos Aires, firmó su radicación en La Cantábrica.
+
+
+La industria representa el 25% del producto bruto geográfico de Morón y el 20% de su empleo privado registrado. El municipio trata ese dato como una responsabilidad de gestión.
+
+
+La lección de Morón es incómoda para cualquier diagnóstico rápido: la carga tributaria importa, pero no alcanza para explicar el desempeño. Lo que distingue a los municipios que resisten no es solo que cobren menos. Es que tienen una política, la tienen escrita, la tienen financiada y la sostienen en el tiempo.
+
+
+San Martín tiene la peor combinación: impuestos altos y baja inversión. Le falta una verdadera política industrial. Está en el peor de los mundos.
+5.4 Cuadro comparativo
+
+
+	General San Martín
+	Tres de Febrero
+	San Miguel
+	Morón
+	Puestos industriales (jun. 2025)
+	35.983
+	26.672
+	3.710
+	s/d en este informe
+	Variación ene. 2024 - jun. 2025
+	-3,93%
+	+1,37%
+	+0,27%
+	-1,04%
+	Régimen promocional industrial
+	Programa MiPyME, hasta 2 años
+	RIGI municipal, hasta 15 años
+	Escalonado, hasta 10 años
+	Parques con beneficios
+	Escala TISH industrial
+	5‰ a 15‰ por facturación
+	Exención hasta 14 años (RIGI)
+	Exención escalonada, hasta 10 años
+	7‰ a 16‰ + mínimo por complejidad ambiental
+	Estabilidad tributaria
+	No
+	TISH congelada 30 años
+	Régimen promocional
+	No localizada
+	Habilitación gratuita
+	Hasta 100% para MiPyME
+	Sí, universal
+	Hasta 200 m²
+	No localizada
+	Habilitación instantánea
+	Digital; no automática universal
+	Sí, más de 70 rubros
+	Online, 24 horas
+	No localizada
+	Tasa vial
+	Sí, 35% de ALSMI
+	No se aplica
+	No localizada
+	No localizada
+	Crédito fiscal por contratación
+	No
+	Sí
+	No localizado
+	No localizado
+	Parques industriales
+	No localizados
+	—
+	Sí, con infraestructura
+	Cuatro
+	Gasto en personal
+	55,4% del gasto corriente (2026)
+	26,76% del gasto total (2026)
+	No localizado (ejecución sin agregar por carácter económico)
+	52,9% del gasto corriente (2025)
+	Gasto de capital / presupuesto total
+	1,58% sancionado / 3,7% vigente (2026)
+	No localizado
+	No localizado
+	15,78% (2025)
+	Presupuesto por habitante
+	~$739.000 (2026)
+	~$520.000 (2026)
+	~$673.700 (2026)
+	No localizado
+	
+
+Las celdas marcadas como "no localizado" indican que la búsqueda documental de este informe no halló la medida o la cifra agregada, no que se afirme su inexistencia. La ejecución presupuestaria de San Miguel está publicada por partida principal y no permite reconstruir sin margen de error los totales de personal y capital sin procesar cientos de páginas de detalle; se prefirió dejar la celda vacía antes que estimarla. Los datos de Morón corresponden a ejercicios 2024-2025, no 2026 como el resto de la fila de San Martín; se mantienen por ser la única fuente oficial disponible y porque la magnitud de las diferencias (gasto de capital diez veces mayor en proporción) excede cualquier variación atribuible al desfasaje de un año.
+
+
+________________
+
+
+6. Propuestas
+Las propuestas se ordenan por nivel de gobierno, porque el problema no se resuelve en un solo escalón. Un intendente no puede bajar Ingresos Brutos ni las cargas patronales, pero tampoco puede permanecer indiferente, pues es precisamente el intendente quien debe representar al municipio frente a la provincia. Tampoco puede escudarse en eso para no hacer lo que sí depende de él.
+6.1 Lo que San Martín puede hacer por sí mismo, sin permiso de nadie
+1. Un régimen municipal de promoción industrial con horizonte de diez años. Exención total de la TISH durante los primeros años y bonificación decreciente después, sujeta a inversión verificable y a generación de empleo con residencia en el distrito. El escalonamiento de San Miguel es el mejor modelo disponible: acompaña la maduración del proyecto en lugar de regalar una década completa por adelantado.
+
+
+2. Estabilidad tributaria por ordenanza para quien invierte. El compromiso de que la alícuota de la TISH no aumentará por un plazo determinado vale más que cualquier subsidio. Una empresa que instala una línea de producción necesita saber cuánto va a pagar en el año siete, no en el mes que viene. Tres de Febrero comprometió treinta años, y lo sostuvo pese al cambio de intendente. San Martín puede comprometer diez y sería un salto enorme respecto de la situación actual.
+
+
+3. Eliminación del tramo del quince por mil y revisión de la escala de la TISH. Una tasa que se gradúa por la facturación total del contribuyente en todo el país no retribuye ningún servicio de inspección. Como mínimo, la base debe limitarse a los ingresos atribuibles a la actividad desarrollada en el partido.
+
+
+4. Eliminación del mínimo por cantidad de empleados. Es el punto más urgente y el más barato de corregir. Ningún municipio que quiera defender el trabajo formal puede cobrar cien módulos fiscales adicionales (hoy $9.400 mensuales) por cada persona contratada. El mínimo debe fijarse por superficie o por categoría de riesgo, nunca por dotación.
+
+
+5. Derogación de la Tasa de Recuperación Vial o afectación específica y auditable de su producido. Si el municipio necesita ese 35% para mantener la red vial industrial, que lo diga, lo afecte por ordenanza a un fondo específico y publique en qué calles se ejecutó. Si no puede demostrarlo, corresponde derogarla.
+
+
+6. Habilitación gratuita, digital e instantánea. Para los rubros de bajo riesgo, declaración jurada con habilitación automática y fiscalización posterior. Para el resto, plazo máximo de setenta y dos horas. El municipio tiene la partida presupuestaria y la ejecutó al uno por ciento. No es un problema de recursos.
+
+
+7. Un ente de promoción industrial con participación privada. El modelo del Ente de Promoción Industrial Buenos Aires-Morón, que integra al municipio, a la provincia y a la unión industrial local en la administración de un parque, es replicable. San Martín tiene la Unión Industrial de General San Martín, la Cámara Económica Sanmartinense y la UNSAM en su territorio. La gestión de la política productiva no debería cambiar con cada elección, tal como demuestra que Tres de Febrero sostuvo su esquema aun con recambio de intendente.
+
+
+8. Ventanilla técnica única con el INTI y la UNSAM. El INTI tiene sede en el distrito y la UNSAM produce los informes que este trabajo utiliza. Que una pyme sanmartinense acceda a asistencia técnica, certificación y transferencia tecnológica en una sola oficina municipal no requiere presupuesto adicional relevante. Requiere decisión.
+
+
+9. Publicación de la dotación de personal y de un tablero de costo del trámite. Cuántos agentes tiene el municipio, en qué categorías y bajo qué modalidad (el mismo dato que Morón publica en su presupuesto y respalda con su nómina efectiva). Cuánto tarda y cuánto cuesta cada habilitación, publicado mensualmente. Un municipio que administra correctamente no le teme al control.
+
+
+10. Reasignación del presupuesto productivo. Llevar la Secretaría de la Producción del 1,12% al 3% del presupuesto no altera el equilibrio fiscal del municipio: son unos seis mil millones de pesos anuales, menos de lo que el distrito movilizó hacia colocaciones financieras en un solo semestre. Con eso se financia un fondo de garantías para pymes, la infraestructura de un polo productivo y una oficina de promoción de exportaciones que funcione.
+6.2 Lo que corresponde a la Provincia de Buenos Aires
+11. Un piso común de reglas para la competencia entre municipios. Este es el punto más delicado del informe y conviene ser explícito. La competencia fiscal entre municipios tiene un límite: si cada partido compite bajando tasas, los que tienen suelo disponible capturan las radicaciones y los que no lo tienen quedan con la base instalada, los costos urbanos y la recaudación en caída. Eso no es desarrollo regional, es traslado de empresas dentro del mismo conurbano. La Provincia debería fijar un marco común que establezca topes de alícuota para la TISH, prohíba gravar ingresos obtenidos fuera de la jurisdicción y condicione los beneficios promocionales a inversión nueva y no a mudanzas.
+
+
+12. Un régimen provincial de promoción industrial con contraparte municipal. Que la Provincia acompañe con Ingresos Brutos e Inmobiliario allí donde el municipio acompaña con TISH, de modo que el beneficio sea significativo y no simbólico.
+
+
+13. Recuperación de la inversión pública en infraestructura productiva. La caída del 65% real del gasto de capital municipal en 2024 no se revierte solo con recursos locales. Para San Martín la agenda es identificable: accesos al Camino del Buen Ayre y a la Ruta 8, saneamiento de la cuenca del Reconquista, reacondicionamiento de las rutas troncales que conectan el cordón industrial con la General Paz y la Panamericana, y recuperación de los ramales de carga del ferrocarril Urquiza que atraviesan el partido. Una planta que no puede despachar un camión a horario paga un costo que ninguna exención de tasas compensa.
+6.3 Lo que corresponde a la Nación
+Cuatro definiciones que exceden el alcance de este informe y sin las cuales nada de lo anterior alcanza:
+
+
+14. Una reforma impositiva que baje la carga sobre la producción y el trabajo, y elimine los tributos que gravan la facturación con independencia del resultado.
+
+
+15. Inversión en obra pública orientada a infraestructura productiva, con criterio de retorno económico.
+
+
+16. Una agenda de reducción de costos logísticos: ferrocarril de cargas, rutas troncales, puertos y trámites de comercio exterior.
+
+
+17. Financiamiento accesible para la pyme industrial, con plazos acordes a la maduración de las inversiones y un sistema de garantías que no exija hipotecar la casa del empresario.
+
+
+________________
+
+
+7. Conclusiones finales
+San Martín no perdió su industria. Todavía tiene 35.983 puestos fabriles, más de dos mil establecimientos, una universidad nacional en su territorio, una sede del INTI, cámaras empresarias activas y tres generaciones de trabajadores metalúrgicos, plásticos y textiles formados en el oficio. Eso no se improvisa y no lo tiene casi nadie.
+
+
+Lo que perdió es la decisión de cuidarlo. El distrito al que el Congreso de la Nación declaró Capital Nacional de la Pequeña y Mediana Empresa Industrial destina hoy a promoción industrial menos de lo que gasta su Concejo Deliberante en una semana. Tiene la mitad de su capacidad fabril ociosa y una tasa que sube con cada trabajador que se contrata. Y mientras tanto, dos vecinos que nunca tuvieron su tradición industrial le están ganando la pulseada por las inversiones que quedan.
+
+
+Nada de lo que este informe propone es ideológico ni requiere una mayoría especial. Bajar el costo de entrada, dar previsibilidad al que invierte, dejar de castigar la contratación y arreglar los caminos por donde salen los camiones son medidas que aplicaron gobiernos peronistas, del PRO y de La Libertad Avanza, en distritos del norte, del oeste y del sur del Conurbano, con resultados comparables. El apoyo a lo productivo no tiene dueño partidario.
+
+
+Queda una decisión pendiente, y es política en el mejor sentido de la palabra: si San Martín quiere seguir siendo la capital de la industria o prefiere conservar el título como un dato del pasado. Las dos cosas cuestan plata. Solo una deja algo.
+
+
+________________
+
+
+Nota metodológica y fuentes
+Fuente principal de empleo. El informe sobre el empleo industrial del Conurbano bonaerense del Centro de Economía Regional de la Escuela de Economía y Negocios de la Universidad Nacional de San Martín, número 99, julio de 2026, ISSN 2618-494X, elaborado por Adrián Gutiérrez Cabello sobre registros del Sistema Integrado Previsional Argentino. Cubre enero de 2019 a junio de 2025, que es el último dato publicado.
+
+
+Fuentes fiscales. El presupuesto 2026 y los estados de ejecución presupuestaria de la Municipalidad de General San Martín, publicados por el propio municipio en su portal de gobierno abierto, y el informe "Evolución de las finanzas municipales 2015-2024" de la Dirección Provincial de Coordinación Municipal y Programas de Desarrollo del Ministerio de Economía bonaerense, de agosto de 2025. Para Morón, el Presupuesto de Gastos por Carácter Económico del ejercicio 2025 (sistema RAFAM) y la nómina de personal de febrero de 2025, ambos de fuente municipal.
+
+
+Fuentes normativas. La Ordenanza Impositiva 2026 de General San Martín, sancionada por Ordenanza 112/2025 y promulgada por Decreto 1661/2025, y su resumen oficial de alícuotas y mínimos publicado por la Dirección General de Ingresos Municipales. Para Morón, la Ordenanza Fiscal e Impositiva reglamentada por los Decretos 3000/23 y 3001/23, Boletín Municipal Publicaciones Especiales N° 2 y N° 3 de diciembre de 2023 (ejercicio 2024). Y las ordenanzas y comunicaciones oficiales del resto de los municipios comparados.
+
+
+Un caso puntual sobre los límites de este trabajo: los datos fiscales y de personal de Morón corresponden a ejercicios distintos entre sí (ordenanza 2024, presupuesto y nómina 2025) y distintos de los de San Martín, mayormente de 2026. Son series oficiales del propio municipio, no estimaciones de prensa, pero la comparación exige tener presente el desfasaje temporal.
+Fuentes detalladas
+Declaración de capitalidad. Ley 27.110, sancionada el 17 de diciembre de 2014 y publicada en el Boletín Oficial el 3 de febrero de 2015, que declara Capital Nacional de la Pequeña y Mediana Empresa Industrial al municipio de General San Martín, provincia de Buenos Aires. Proyecto de los diputados Carlos R. Brown, Graciela Camaño y Leonardo Grosso; dictamen de comisión del 7 de noviembre de 2013.
+
+
+Empleo industrial. Gutiérrez Cabello, Adrián. Informe sobre el empleo industrial del Conurbano bonaerense, número 99, julio de 2026, ISSN 2618-494X. Centro de Economía Regional, Escuela de Economía y Negocios, Universidad Nacional de San Martín. Elaborado sobre registros del SIPA publicados por la Secretaría de Trabajo, Empleo y Seguridad Social de la Nación. Período enero 2019 - junio 2025.
+
+
+Finanzas municipales de San Martín. Municipalidad de General San Martín, Presupuesto de Gastos y Cálculo de Recursos 2026 y ejercicios anteriores, portal de gobierno abierto. Estado de Ejecución de Gastos por Carácter Económico al 30 de junio de 2026. Publicación de Situación Económico Financiera, primer semestre 2026, suscripta por el intendente, el secretario de Economía y Coordinación de Gestión, la contadora municipal y el tesorero.
+
+
+Normativa tributaria de San Martín. Ordenanza Impositiva 2026, Ordenanza 112/2025, Decreto 1661/2025, expediente HCD 305-D-2025. Resumen oficial de alícuotas y mínimos de la Tasa por Inspección de Seguridad e Higiene, artículos 14 a 23 bis, publicado por la Dirección General de Ingresos Municipales. Valor del Módulo Fiscal, actualizaciones 2023-2026, Municipalidad de General San Martín.
+
+
+Finanzas municipales bonaerenses. Ministerio de Economía de la Provincia de Buenos Aires, Subsecretaría de Coordinación Económica y Estadística, Dirección Provincial de Coordinación Municipal y Programas de Desarrollo. Evolución de las finanzas municipales 2015-2024, agosto de 2025.
+
+
+Jurisprudencia. Cámara de Apelación en lo Contencioso Administrativo de San Martín, "Freudenberg S.A. c/ Municipalidad de General San Martín s/ Pretensión anulatoria - otros juicios".
+
+
+Documentación oficial de Morón. Municipalidad de Morón, Boletín Municipal, Publicación Especial N° 2 (Ordenanza Fiscal e Impositiva, ejercicio 2024) y Publicación Especial N° 3 (Decretos reglamentarios 3000/23 y 3001/23), diciembre de 2023. Presupuesto de Gastos por Carácter Económico, ejercicio 2025, sistema RAFAM. Nómina de personal, febrero de 2025.
+
+
+Gestión comparada de municipios. Comunicaciones oficiales y ordenanzas de las municipalidades de Tres de Febrero y San Miguel. Cobertura periodística de la aprobación del régimen de incentivos a la inversión de Tres de Febrero, junio de 2025, y del recambio de intendente en diciembre de 2025.
+
+
+Índices e indicadores complementarios. Índice de Gestión Estratégica de Ciudades, segunda edición, Facultad de Ciencias Económicas de la Universidad de Buenos Aires. Censo Nacional de Población, Hogares y Viviendas 2022, INDEC.
+
+
+Sector privado local. Cámara Económica Sanmartinense, Monitor PyME, julio de 2026. Observatorio Socioeconómico Municipal de General San Martín.
