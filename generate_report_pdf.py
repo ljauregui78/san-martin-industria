@@ -67,18 +67,13 @@ def page_header(canvas, doc):
 
     author_style = ParagraphStyle(
         "HeaderAuthors",
-        fontName="Nimbus",
-        fontSize=6.4,
-        leading=7.8,
+        fontName="Nimbus-Bold",
+        fontSize=7.5,
+        leading=9,
         textColor=NAVY,
         alignment=TA_RIGHT,
     )
-    author_text = (
-        "<b>Carlos Brown y Luciano Jáuregui</b><br/>"
-        "<b>* Sobre los autores.</b> Carlos Brown es abogado, director ejecutivo del Movimiento "
-        "Productivo Argentino y director de ACEP San Martín. Luciano Jáuregui es politólogo e "
-        "integrante del Movimiento Productivo Argentino y de ACEP San Martín."
-    )
+    author_text = "Carlos Brown y Luciano Jáuregui"
     block = Paragraph(author_text, author_style)
     block_width = 112 * mm
     _, block_height = block.wrap(block_width, 24 * mm)
@@ -133,6 +128,20 @@ meta = ParagraphStyle(
     leading=12,
     textColor=NAVY,
     spaceAfter=5,
+)
+author_note = ParagraphStyle(
+    "AuthorNote",
+    parent=body,
+    fontSize=8.5,
+    leading=12,
+    textColor=NAVY,
+    backColor=SOFT,
+    borderColor=BLUE,
+    borderWidth=0.7,
+    borderPadding=8,
+    borderRadius=0,
+    spaceBefore=5,
+    spaceAfter=11,
 )
 h2 = ParagraphStyle(
     "H2",
@@ -221,6 +230,12 @@ def build_story(text):
         if line.startswith("Por Carlos Brown y Luciano Jáuregui") or line == "Movimiento Productivo Argentino / ACEP San Martín.":
             flush()
             story.append(para(line, meta))
+            i += 1
+            continue
+        if line.startswith("* Sobre los autores."):
+            flush()
+            details = escape(line[len("* Sobre los autores."):].strip())
+            story.append(Paragraph(f"<b>* Sobre los autores.</b> {details}", author_note))
             i += 1
             continue
         if re.match(r"^\d+\.\s", line) and len(line) >= 120:
