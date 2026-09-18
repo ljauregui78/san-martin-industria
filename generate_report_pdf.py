@@ -168,12 +168,14 @@ h3 = ParagraphStyle(
 proposal = ParagraphStyle(
     "Proposal",
     parent=body,
-    fontName="Nimbus-Bold",
-    fontSize=9.6,
-    leading=13.2,
+    fontName="Nimbus",
+    fontSize=9.4,
+    leading=13.3,
     textColor=NAVY,
     spaceBefore=5,
-    spaceAfter=6,
+    spaceAfter=8,
+    leftIndent=8 * mm,
+    rightIndent=8 * mm,
     keepWithNext=False,
 )
 table_cell = ParagraphStyle(
@@ -193,6 +195,24 @@ table_head = ParagraphStyle(
 
 def para(text, style=body):
     return Paragraph(escape(text).replace("\n", "<br/>"), style)
+
+
+def proposal_markup(text):
+    short_titles = {
+        "14": "Una reforma impositiva",
+        "15": "Inversión en obra pública orientada a infraestructura productiva",
+        "16": "Una agenda de reducción de costos logísticos:",
+        "17": "Financiamiento accesible para la pyme industrial",
+    }
+    number = re.match(r"^(\d+)\.\s+", text)
+    title = short_titles.get(number.group(1) if number else "")
+    if title:
+        prefix = f"{number.group(1)}. {title}"
+        return f"<b>{escape(prefix)}</b>{escape(text[len(prefix):])}"
+    match = re.match(r"^(\d+\.\s+[^.]+\.)\s*(.*)$", text)
+    if match:
+        return f"<b>{escape(match.group(1))}</b>{(' ' + escape(match.group(2))) if match.group(2) else ''}"
+    return escape(text)
 
 
 def build_story(text):
@@ -238,9 +258,9 @@ def build_story(text):
             story.append(Paragraph(f"<b>* Sobre los autores.</b> {details}", author_note))
             i += 1
             continue
-        if re.match(r"^\d+\.\s", line) and len(line) >= 120:
+        if re.match(r"^\d+\.\s", line) and len(line) >= 100:
             flush()
-            story.append(para(line, proposal))
+            story.append(Paragraph(proposal_markup(line), proposal))
             i += 1
             continue
         if re.match(r"^\d+\.\s", line) or (re.match(r"^(Síntesis|Conclusión|Fuentes|Propuestas)", line, re.I) and len(line) < 80):
@@ -271,7 +291,7 @@ def build_story(text):
                     data.append([para(cell, cell_style) for cell in cells])
                 widths = [doc_width / columns] * columns
                 table = Table(data, colWidths=widths, repeatRows=1, hAlign="LEFT")
-                table.setStyle(TableStyle([
+                table_style = [
                     ("BACKGROUND", (0, 0), (-1, 0), NAVY),
                     ("TEXTCOLOR", (0, 0), (-1, 0), colors.white),
                     ("BACKGROUND", (0, 1), (-1, -1), colors.white),
@@ -282,7 +302,16 @@ def build_story(text):
                     ("RIGHTPADDING", (0, 0), (-1, -1), 5),
                     ("TOPPADDING", (0, 0), (-1, -1), 4),
                     ("BOTTOMPADDING", (0, 0), (-1, -1), 4),
-                ]))
+                ]
+                if rows[0] == "Municipio" and len(rows) > 1 and rows[1].lower() == "variación":
+                    for row_index in range(1, len(data)):
+                        if rows[row_index * columns] == "General San Martín":
+                            table_style.extend([
+                                ("BACKGROUND", (0, row_index), (-1, row_index), colors.HexColor("#DDEBFF")),
+                                ("FONTNAME", (0, row_index), (-1, row_index), "Nimbus-Bold"),
+                            ])
+                            break
+                table.setStyle(TableStyle(table_style))
                 story.extend([Spacer(1, 6), table, Spacer(1, 10)])
                 i = j
                 continue
