@@ -277,11 +277,11 @@ def build_story(text):
             flush()
             rows = []
             j = i
-            while j < len(raw) and raw[j] and len(rows) < 45:
+            while j < len(raw) and raw[j] and len(rows) < 100:
                 rows.append(raw[j])
                 j += 1
             if len(rows) >= 6:
-                columns = 2 if rows[0] == "Año" or (rows[0] == "Municipio" and len(rows) > 1 and rows[1].lower() == "variación") else 3
+                columns = 5 if rows[0] == "Programa" and rows[2] == "% Secretaría" else 2 if rows[0] == "Año" or (rows[0] == "Municipio" and len(rows) > 1 and rows[1].lower() == "variación") else 3
                 data = []
                 for offset in range(0, len(rows), columns):
                     cells = rows[offset:offset + columns]
@@ -289,7 +289,7 @@ def build_story(text):
                         cells += [""] * (columns - len(cells))
                     cell_style = table_head if offset == 0 else table_cell
                     data.append([para(cell, cell_style) for cell in cells])
-                widths = [doc_width / columns] * columns
+                widths = [doc_width * .42] + [doc_width * .145] * 4 if columns == 5 else [doc_width / columns] * columns
                 table = Table(data, colWidths=widths, repeatRows=1, hAlign="LEFT")
                 table_style = [
                     ("BACKGROUND", (0, 0), (-1, 0), NAVY),
