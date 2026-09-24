@@ -59,7 +59,9 @@
     .sources-hero{background:var(--navy);color:white;padding:90px 0 70px}.sources-hero h1{font-size:clamp(3rem,7vw,6rem);line-height:.95;letter-spacing:-.06em;margin:18px 0}.sources-hero p{color:#b4c8dc;max-width:710px;font-size:1.08rem}.source-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.source-card{background:var(--paper);border:1px solid var(--line);padding:26px;text-decoration:none;min-height:200px;position:relative;transition:transform .2s,border .2s}.source-card:hover{transform:translateY(-4px);border-color:var(--blue)}.source-icon{width:42px;height:42px;display:grid;place-items:center;background:var(--soft);color:var(--blue);border-radius:10px}.source-icon svg{width:21px;height:21px}.source-card h3{font-size:1rem;margin:22px 0 8px}.source-card p{font-size:.82rem;color:var(--muted);margin:0}.source-card .external{position:absolute;right:20px;top:20px;color:var(--muted);font-size:1rem}.reveal{opacity:0;transform:translateY(18px);transition:opacity .65s ease,transform .65s ease}.reveal.visible{opacity:1;transform:none}
     .full-report{background:linear-gradient(135deg,var(--navy),#0d3a6a);color:white;padding:54px;margin-top:30px;display:flex;justify-content:space-between;align-items:center;gap:30px}.full-report h3{font-size:2rem;line-height:1.1;margin:0 0 10px}.full-report p{color:#b8cce0;margin:0}.btn{border:0;background:var(--sky);color:#06203a;padding:13px 20px;border-radius:4px;font-weight:800;cursor:pointer;white-space:nowrap}.btn:hover{filter:brightness(1.07)}
     .report-reader{display:none;margin-top:28px;background:var(--paper);color:var(--ink);border:1px solid var(--line);box-shadow:var(--shadow)}.report-reader.open{display:block}.reader-toolbar{position:sticky;top:76px;background:var(--paper);color:var(--ink);z-index:12;border-bottom:1px solid var(--line);padding:14px 18px;display:flex;justify-content:space-between;align-items:center;gap:18px}.reader-toolbar strong{font-size:.86rem}.reader-actions{display:flex;align-items:center;gap:8px}.reader-action{border:1px solid var(--line);background:var(--bg);color:var(--ink);padding:8px 11px;cursor:pointer;font:inherit;font-size:.72rem;font-weight:800;letter-spacing:.035em;text-transform:uppercase}.reader-action:hover{border-color:var(--blue);color:var(--blue)}.reader-action.primary{background:var(--blue);border-color:var(--blue);color:white}.report-letterhead{max-width:790px;margin:0 auto;border-bottom:1px solid var(--line);padding:28px 42px 22px;display:grid;grid-template-columns:auto 1fr;gap:22px;align-items:start}.print-report-layout{display:none}.print-letterhead{display:none}.report-letterhead-brand{display:flex;align-items:center;gap:11px}.report-letterhead-brand .brand-mark{width:40px;height:40px}.report-letterhead-brand strong{font-size:.76rem;line-height:1.15;text-transform:uppercase;letter-spacing:.045em}.report-letterhead-authors{text-align:right;font-size:.72rem;line-height:1.48;color:var(--muted)}.report-letterhead-authors b{display:block;color:var(--ink);font-size:.8rem;margin-bottom:3px}.report-letterhead-authors strong{color:var(--ink)}.document{max-width:790px;margin:auto;padding:50px 42px 90px;color:var(--ink)}.document h1,.document h2,.document h3,.document p,.document td{color:var(--ink)}.document h1{font-size:2.8rem;line-height:1.05;letter-spacing:-.05em}.document h2{font-size:2rem;margin-top:58px;padding-top:22px;border-top:1px solid var(--line)}.document h3{font-size:1.35rem;margin-top:38px}.document p{margin:0 0 1.35em}.document .doc-lead{font-size:1.12rem;color:var(--muted)}.document .report-author-note{margin:18px 0 4px;padding:14px 16px;background:var(--soft);border-left:3px solid var(--blue);font-size:.88rem;line-height:1.55}.document table{width:100%;border-collapse:collapse;margin:28px 0;font-size:.83rem;color:var(--ink)}.document th,.document td{padding:10px 12px;border-bottom:1px solid var(--line);text-align:left}.document th{background:var(--soft);color:var(--ink);font-weight:800}.loading{padding:80px;text-align:center;color:var(--muted)}
-    .document tr.highlight-row td{background:color-mix(in srgb,var(--blue) 13%,var(--paper));font-weight:800}.document .report-proposal{margin:0 30px 1.35em;font-size:inherit;line-height:inherit}.document .report-proposal strong{font-weight:800}
+    .document tr.highlight-row th,.document tr.highlight-row td{background:color-mix(in srgb,var(--blue) 13%,var(--paper));font-weight:800}.document .report-proposal{margin:0 30px 1.35em;font-size:inherit;line-height:inherit}.document .report-proposal strong{font-weight:800}
+    .report-table-scroll{max-width:100%;overflow-x:auto;overscroll-behavior-inline:contain}.document .report-data-table{margin:28px 0;min-width:440px}.document .report-data-table.columns-5{min-width:940px}.document .report-data-table caption{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}.document .report-data-table th[scope="row"]{font-weight:700;background:var(--paper)}.document .report-data-table.columns-5 th,.document .report-data-table.columns-5 td{font-size:.76rem;line-height:1.4;padding:9px 8px}.document .report-data-table.columns-5 th:first-child{min-width:190px}
+    @media print{.report-table-scroll{overflow:visible!important}.print-report-layout .report-data-table{min-width:0!important;table-layout:fixed}.print-report-layout .report-data-table.columns-5 th,.print-report-layout .report-data-table.columns-5 td{font-size:7pt;padding:1.4mm}.print-report-layout .report-data-table.columns-5 th:first-child{min-width:0}}
     .article-hero{--article-image:none;position:relative;isolation:isolate;overflow:hidden;padding:92px 0 72px;border-bottom:1px solid var(--line);background:var(--navy);color:#f6fbff}.article-hero:before{content:"";position:absolute;inset:0;z-index:-2;background-image:var(--article-image);background-size:cover;background-position:center;transform:scale(1.015)}.article-hero:after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,rgba(3,14,30,.97) 0%,rgba(3,14,30,.9) 45%,rgba(3,14,30,.58) 72%,rgba(3,14,30,.42) 100%)}.article-grid{display:grid;grid-template-columns:170px 1fr;gap:56px;position:relative}.article-index{font-size:5rem;font-weight:800;line-height:1;color:var(--blue);letter-spacing:-.08em;text-shadow:0 5px 25px rgba(0,0,0,.35)}.article-hero .kicker{color:var(--blue)}.article-hero h1{font-size:clamp(2.7rem,6vw,5.7rem);line-height:.98;letter-spacing:-.06em;margin:18px 0 24px;max-width:920px;color:#fff;text-shadow:0 4px 28px rgba(0,0,0,.45)}.article-title-primary,.article-title-secondary{display:block}.article-title-secondary{color:var(--blue);margin-top:.12em}.article-dek{font-size:1.1rem;color:#d1dce8;max-width:730px;text-shadow:0 2px 16px rgba(0,0,0,.45)}.article-hero .byline{color:#fff}.article-hero .byline-line{background:#72d1f8!important}.article-body{max-width:790px;margin:0 auto;padding:70px 20px 110px;color:var(--ink)}.article-body p{font-size:1.06rem;margin:0 0 1.45em;color:var(--ink)}.article-body p:first-of-type:first-letter{float:left;font-size:4.7rem;line-height:.78;padding:12px 10px 0 0;font-weight:800;color:var(--blue)}.article-nav{border-top:1px solid var(--line);padding:30px 0}.article-nav-inner{display:flex;justify-content:space-between;gap:16px}.article-link{border:1px solid var(--line);background:var(--paper);padding:12px 16px;cursor:pointer;font-weight:800;font-size:.83rem}.article-link:hover{border-color:var(--blue)}
     /* Unificación de todos los acentos tipográficos con el azul de los indicadores. */
     .eyebrow,.scroll-note,.article-index,.article-hero .kicker,.article-title-secondary{color:var(--blue)}.eyebrow:before,.article-hero .byline-line{background:var(--sky)!important}
@@ -410,153 +412,30 @@
 <h3>1.1 Sigue siendo grande</h3>
 <p>A junio de 2025 el Conurbano bonaerense tenía 339.110 puestos de trabajo industrial formal, contra 346.809 en enero de 2019. La región perdió 2,2% de su empleo fabril en seis años y medio.</p>
 <p>Dentro de ese universo la concentración es marcada. Cinco municipios reúnen el 47,5% del empleo industrial de todo el Conurbano:</p>
-<p>Municipio</p>
-<p>Puestos industriales formales (junio 2025)</p>
-<p>Participación</p>
-<p>La Matanza</p>
-<p>39.533</p>
-<p>11,66%</p>
-<p>General San Martín</p>
-<p>35.983</p>
-<p>10,61%</p>
-<p>Tigre</p>
-<p>29.506</p>
-<p>8,70%</p>
-<p>Vicente López</p>
-<p>29.254</p>
-<p>8,63%</p>
-<p>Tres de Febrero</p>
-<p>26.672</p>
-<p>7,87%</p>
+<div class="report-table-scroll"><table class="report-data-table columns-3"><caption>1.1 Sigue siendo grande</caption><thead><tr><th scope="col">Municipio</th><th scope="col">Puestos industriales formales (junio 2025)</th><th scope="col">Participación</th></tr></thead><tbody><tr><th scope="row">La Matanza</th><td>39.533</td><td>11,66%</td></tr><tr class="highlight-row"><th scope="row">General San Martín</th><td>35.983</td><td>10,61%</td></tr><tr><th scope="row">Tigre</th><td>29.506</td><td>8,70%</td></tr><tr><th scope="row">Vicente López</th><td>29.254</td><td>8,63%</td></tr><tr><th scope="row">Tres de Febrero</th><td>26.672</td><td>7,87%</td></tr></tbody></table></div>
 <p>San Martín no perdió su escala. Uno de cada diez puestos industriales del Conurbano está en el partido. Eso importa por dos razones: el distrito conserva un activo que muy pocos territorios del país tienen, y lo que le pasa a San Martín arrastra al agregado regional.</p>
 <h3>1.2 Dejó de ser dinámico</h3>
 <p>El mismo informe ordena a los veinticuatro partidos según la variación del empleo industrial entre enero de 2024 y junio de 2025:</p>
-<p>Municipio</p>
-<p>Variación</p>
-<p>Ezeiza</p>
-<p>+8,63%</p>
-<p>José C. Paz</p>
-<p>+2,84%</p>
-<p>Moreno</p>
-<p>+1,84%</p>
-<p>Tres de Febrero</p>
-<p>+1,37%</p>
-<p>San Miguel</p>
-<p>+0,27%</p>
-<p>Malvinas Argentinas</p>
-<p>+0,14%</p>
-<p>Morón</p>
-<p>-1,04%</p>
-<p>Vicente López</p>
-<p>-2,55%</p>
-<p>Hurlingham</p>
-<p>-2,77%</p>
-<p>Almirante Brown</p>
-<p>-3,77%</p>
-<p>La Matanza</p>
-<p>-3,85%</p>
-<p>General San Martín</p>
-<p>-3,93%</p>
-<p>Florencio Varela</p>
-<p>-4,12%</p>
-<p>San Isidro</p>
-<p>-4,36%</p>
-<p>Tigre</p>
-<p>-4,44%</p>
-<p>Quilmes</p>
-<p>-4,50%</p>
-<p>Esteban Echeverría</p>
-<p>-4,83%</p>
-<p>Berazategui</p>
-<p>-4,88%</p>
-<p>Avellaneda</p>
-<p>-5,14%</p>
-<p>Ituzaingó</p>
-<p>-5,96%</p>
-<p>Lanús</p>
-<p>-7,22%</p>
-<p>Merlo</p>
-<p>-8,80%</p>
-<p>San Fernando</p>
-<p>-12,35%</p>
-<p>Lomas de Zamora</p>
-<p>-12,88%</p>
-<p>Promedio del Conurbano</p>
-<p>-2,55%</p>
+<div class="report-table-scroll"><table class="report-data-table columns-2"><caption>1.2 Dejó de ser dinámico</caption><thead><tr><th scope="col">Municipio</th><th scope="col">Variación</th></tr></thead><tbody><tr><th scope="row">Ezeiza</th><td>+8,63%</td></tr><tr><th scope="row">José C. Paz</th><td>+2,84%</td></tr><tr><th scope="row">Moreno</th><td>+1,84%</td></tr><tr><th scope="row">Tres de Febrero</th><td>+1,37%</td></tr><tr><th scope="row">San Miguel</th><td>+0,27%</td></tr><tr><th scope="row">Malvinas Argentinas</th><td>+0,14%</td></tr><tr><th scope="row">Morón</th><td>-1,04%</td></tr><tr><th scope="row">Vicente López</th><td>-2,55%</td></tr><tr><th scope="row">Hurlingham</th><td>-2,77%</td></tr><tr><th scope="row">Almirante Brown</th><td>-3,77%</td></tr><tr><th scope="row">La Matanza</th><td>-3,85%</td></tr><tr class="highlight-row"><th scope="row">General San Martín</th><td>-3,93%</td></tr><tr><th scope="row">Florencio Varela</th><td>-4,12%</td></tr><tr><th scope="row">San Isidro</th><td>-4,36%</td></tr><tr><th scope="row">Tigre</th><td>-4,44%</td></tr><tr><th scope="row">Quilmes</th><td>-4,50%</td></tr><tr><th scope="row">Esteban Echeverría</th><td>-4,83%</td></tr><tr><th scope="row">Berazategui</th><td>-4,88%</td></tr><tr><th scope="row">Avellaneda</th><td>-5,14%</td></tr><tr><th scope="row">Ituzaingó</th><td>-5,96%</td></tr><tr><th scope="row">Lanús</th><td>-7,22%</td></tr><tr><th scope="row">Merlo</th><td>-8,80%</td></tr><tr><th scope="row">San Fernando</th><td>-12,35%</td></tr><tr><th scope="row">Lomas de Zamora</th><td>-12,88%</td></tr><tr><th scope="row">Promedio del Conurbano</th><td>-2,55%</td></tr></tbody></table></div>
 <p>San Martín queda en el puesto doce, por debajo del promedio regional. No está entre los peores. Lomas de Zamora, San Fernando y Merlo atraviesan una situación mucho más grave, vinculada al peso del textil, la indumentaria y el calzado en su estructura productiva. El informe de la UNSAM ubica a San Martín en un grupo intermedio, junto con La Matanza, Vicente López, Quilmes y Avellaneda, con caídas en 2024 y desaceleración visible en 2025.</p>
 <p>El problema no es el puesto en la tabla. Es que la capital nacional de la pyme industrial está por debajo del promedio mientras dos vecinos de menor escala industrial están por encima.</p>
 <h3>1.3 El diagnóstico del propio municipio</h3>
 <p>El Observatorio Socioeconómico Municipal de General San Martín, financiado con una partida de $39 millones en el presupuesto 2026, publicó datos más duros que los del SIPA.</p>
 <p>Según ese relevamiento, el empleo industrial del distrito cayó 6,3% hacia fines de 2025, con ocho trimestres consecutivos de deterioro y sin ningún registro positivo desde 2023. El secretario de Producción y Desarrollo Económico del municipio, Alejandro Tsolis, cuantificó públicamente en 3.000 los puestos industriales destruidos en el distrito desde diciembre de 2023.</p>
 <p>El dato más elocuente es el uso de la capacidad instalada de las fábricas sanmartinenses:</p>
-<p>Año</p>
-<p>Uso de capacidad instalada</p>
-<p>2022</p>
-<p>68%</p>
-<p>2023</p>
-<p>60%</p>
-<p>2024</p>
-<p>54%</p>
-<p>2025</p>
-<p>46%</p>
+<div class="report-table-scroll"><table class="report-data-table columns-2"><caption>1.3 El diagnóstico del propio municipio</caption><thead><tr><th scope="col">Año</th><th scope="col">Uso de capacidad instalada</th></tr></thead><tbody><tr><th scope="row">2022</th><td>68%</td></tr><tr><th scope="row">2023</th><td>60%</td></tr><tr><th scope="row">2024</th><td>54%</td></tr><tr><th scope="row">2025</th><td>46%</td></tr></tbody></table></div>
 <p>Más de la mitad del parque industrial del distrito está ocioso. La Cámara Económica Sanmartinense, en su Monitor PyME de julio de 2026, informó que el 82,4% de las pymes locales consultadas registró caída de ventas en la comparación interanual.</p>
 <p>Los publica el municipio y los publica la cámara empresaria del distrito.</p>
 <h2>2. Cuánto vale la industria en el presupuesto de San Martín</h2>
 <h3>2.1 El presupuesto sancionado</h3>
 <p>El presupuesto 2026 de la Municipalidad de General San Martín, aprobado en diciembre de 2025, asciende a $333.980.910.000. Su distribución por jurisdicción es la siguiente:</p>
-<p>Jurisdicción</p>
-<p>Monto</p>
-<p>% del total</p>
-<p>Secretaría de Obras y Servicios Públicos</p>
-<p>$100.664.780.000</p>
-<p>30,14%</p>
-<p>Jefatura de Gabinete</p>
-<p>$74.452.850.000</p>
-<p>22,29%</p>
-<p>Secretaría de Salud</p>
-<p>$72.220.530.000</p>
-<p>21,62%</p>
-<p>Secretaría de Economía y Coordinación de Gestión</p>
-<p>$29.686.713.957</p>
-<p>8,89%</p>
-<p>Secretaría para la Integración Educativa, Cultural y Deportiva</p>
-<p>$26.129.790.000</p>
-<p>7,82%</p>
-<p>Secretaría de Mujeres, Géneros e Infancias</p>
-<p>$11.327.860.000</p>
-<p>3,39%</p>
-<p>Honorable Concejo Deliberante</p>
-<p>$6.611.320.000</p>
-<p>1,98%</p>
-<p>Secretaría de la Producción y Desarrollo</p>
-<p>$3.726.890.000</p>
-<p>1,12%</p>
-<p>Partidas no asignables a programas</p>
-<p>$3.082.936.043</p>
-<p>0,92%</p>
-<p>Unidad Intendente</p>
-<p>$2.934.650.000</p>
-<p>0,88%</p>
-<p>Secretaría de Legal y Técnica</p>
-<p>$2.516.790.000</p>
-<p>0,75%</p>
-<p>Agencia para la Promoción del Empleo</p>
-<p>$625.800.000</p>
-<p>0,19%</p>
-<p>Total</p>
-<p>$333.980.910.000</p>
-<p>100%</p>
+<div class="report-table-scroll"><table class="report-data-table columns-3"><caption>2.1 El presupuesto sancionado</caption><thead><tr><th scope="col">Jurisdicción</th><th scope="col">Monto</th><th scope="col">% del total</th></tr></thead><tbody><tr><th scope="row">Secretaría de Obras y Servicios Públicos</th><td>$100.664.780.000</td><td>30,14%</td></tr><tr><th scope="row">Jefatura de Gabinete</th><td>$74.452.850.000</td><td>22,29%</td></tr><tr><th scope="row">Secretaría de Salud</th><td>$72.220.530.000</td><td>21,62%</td></tr><tr><th scope="row">Secretaría de Economía y Coordinación de Gestión</th><td>$29.686.713.957</td><td>8,89%</td></tr><tr><th scope="row">Secretaría para la Integración Educativa, Cultural y Deportiva</th><td>$26.129.790.000</td><td>7,82%</td></tr><tr><th scope="row">Secretaría de Mujeres, Géneros e Infancias</th><td>$11.327.860.000</td><td>3,39%</td></tr><tr><th scope="row">Honorable Concejo Deliberante</th><td>$6.611.320.000</td><td>1,98%</td></tr><tr><th scope="row">Secretaría de la Producción y Desarrollo</th><td>$3.726.890.000</td><td>1,12%</td></tr><tr><th scope="row">Partidas no asignables a programas</th><td>$3.082.936.043</td><td>0,92%</td></tr><tr><th scope="row">Unidad Intendente</th><td>$2.934.650.000</td><td>0,88%</td></tr><tr><th scope="row">Secretaría de Legal y Técnica</th><td>$2.516.790.000</td><td>0,75%</td></tr><tr><th scope="row">Agencia para la Promoción del Empleo</th><td>$625.800.000</td><td>0,19%</td></tr><tr><th scope="row">Total</th><td>$333.980.910.000</td><td>100%</td></tr></tbody></table></div>
 <p>El Concejo Deliberante recibe 1,77 veces lo que recibe la Secretaría de la Producción y Desarrollo.</p>
 <p>La participación de la Secretaría de la Producción en el presupuesto creció en los últimos años: 0,30% en 2020, 0,26% en 2021, 0,71% en 2022, 0,70% en 2023, 0,92% en 2024, 1,04% en 2025 y 1,12% en 2026. Casi se cuadruplicó. Pero ese incremento no fue suficiente, o no se usó bien, para sostener e impulsar la producción y el desarrollo.</p>
 <p>Un distrito que se define a sí mismo como capital nacional de la pyme industrial, con 35.983 puestos fabriles y más de dos mil establecimientos industriales, destina a su política productiva poco más de un peso de cada cien.</p>
 <h3>2.2 La ejecución: lo que efectivamente se gastó</h3>
 <p>El estado de situación económico financiera del primer semestre de 2026, firmado por el intendente Fernando Moreira, el secretario de Economía y Coordinación de Gestión, la contadora municipal y el tesorero, desagrega el gasto por programa. Sobre un presupuesto vigente ampliado a $400.567.135.774, los 17 programas identificados con la unidad 1.1.1.01.04 ejecutaron lo siguiente entre el 1 de enero y el 30 de junio de 2026:</p>
-<div style="overflow-x:auto"><table><tbody><tr><th>Programa</th><th>Crédito vigente (M)</th><th>% Secretaría</th><th>Devengado (M)</th><th>Ejecución</th></tr><tr><td>Promoción y Capacitación para el Trabajo</td><td>$291,23</td><td>7,81%</td><td>$102,11</td><td>35,1%</td></tr><tr><td>Territorio</td><td>$176,13</td><td>4,73%</td><td>$52,04</td><td>29,5%</td></tr><tr><td>Economía Social y Solidaria</td><td>$55,00</td><td>1,48%</td><td>$8,53</td><td>15,5%</td></tr><tr><td>Observatorio Socioeconómico</td><td>$39,00</td><td>1,05%</td><td>$14,20</td><td>36,4%</td></tr><tr><td>Responsabilidad Social Empresaria</td><td>$20,00</td><td>0,54%</td><td>$4,92</td><td>24,6%</td></tr><tr><td>Comercio</td><td>$19,80</td><td>0,53%</td><td>$14,57</td><td>73,6%</td></tr><tr><td>Finanzas Solidarias</td><td>$18,50</td><td>0,50%</td><td>$9,93</td><td>53,7%</td></tr><tr><td>Centro de Producción</td><td>$16,00</td><td>0,43%</td><td>$6,20</td><td>38,7%</td></tr><tr><td>Fortalecimiento Productivo</td><td>$15,00</td><td>0,40%</td><td>$0,54</td><td>3,6%</td></tr><tr><td>Promoción Industrial</td><td>$13,80</td><td>0,37%</td><td>$9,73</td><td>70,5%</td></tr><tr><td>Gestión de Riesgo y Control Operativo</td><td>$13,77</td><td>0,37%</td><td>$2,36</td><td>17,1%</td></tr><tr><td>Agencia de Promoción de Exportaciones</td><td>$13,10</td><td>0,35%</td><td>$4,74</td><td>36,2%</td></tr><tr><td>Eficiencia Energética</td><td>$10,00</td><td>0,27%</td><td>$0,00</td><td>0%</td></tr><tr><td>Habilitaciones y Permisos</td><td>$7,53</td><td>0,20%</td><td>$0,06</td><td>0,8%</td></tr><tr><td>Políticas Productivas con Perspectiva de Género</td><td>$7,00</td><td>0,19%</td><td>$0,52</td><td>7,4%</td></tr><tr><td>Inclusión Social Laboral</td><td>$5,06</td><td>0,14%</td><td>$0,06</td><td>1,1%</td></tr><tr><td>Comercialización Asociativa y Ferias</td><td>$1,15</td><td>0,03%</td><td>$0,18</td><td>15,3%</td></tr></tbody></table></div>
-<p>Total 17 programas</p>
-<p>$722,06</p>
-<p>19,37%</p>
-<p>$230,68</p>
-<p>31,9%</p>
+<div class="report-table-scroll"><table class="report-data-table columns-5"><caption>2.2 La ejecución: lo que efectivamente se gastó</caption><thead><tr><th scope="col">Programa</th><th scope="col">Crédito vigente (M)</th><th scope="col">% Secretaría</th><th scope="col">Devengado (M)</th><th scope="col">Ejecución</th></tr></thead><tbody><tr><th scope="row">Promoción y Capacitación para el Trabajo</th><td>$291,23</td><td>7,81%</td><td>$102,11</td><td>35,1%</td></tr><tr><th scope="row">Territorio</th><td>$176,13</td><td>4,73%</td><td>$52,04</td><td>29,5%</td></tr><tr><th scope="row">Economía Social y Solidaria</th><td>$55,00</td><td>1,48%</td><td>$8,53</td><td>15,5%</td></tr><tr><th scope="row">Observatorio Socioeconómico</th><td>$39,00</td><td>1,05%</td><td>$14,20</td><td>36,4%</td></tr><tr><th scope="row">Responsabilidad Social Empresaria</th><td>$20,00</td><td>0,54%</td><td>$4,92</td><td>24,6%</td></tr><tr><th scope="row">Comercio</th><td>$19,80</td><td>0,53%</td><td>$14,57</td><td>73,6%</td></tr><tr><th scope="row">Finanzas Solidarias</th><td>$18,50</td><td>0,50%</td><td>$9,93</td><td>53,7%</td></tr><tr><th scope="row">Centro de Producción</th><td>$16,00</td><td>0,43%</td><td>$6,20</td><td>38,7%</td></tr><tr><th scope="row">Fortalecimiento Productivo</th><td>$15,00</td><td>0,40%</td><td>$0,54</td><td>3,6%</td></tr><tr><th scope="row">Promoción Industrial</th><td>$13,80</td><td>0,37%</td><td>$9,73</td><td>70,5%</td></tr><tr><th scope="row">Gestión de Riesgo y Control Operativo</th><td>$13,77</td><td>0,37%</td><td>$2,36</td><td>17,1%</td></tr><tr><th scope="row">Agencia de Promoción de Exportaciones</th><td>$13,10</td><td>0,35%</td><td>$4,74</td><td>36,2%</td></tr><tr><th scope="row">Eficiencia Energética</th><td>$10,00</td><td>0,27%</td><td>$0,00</td><td>0%</td></tr><tr><th scope="row">Habilitaciones y Permisos</th><td>$7,53</td><td>0,20%</td><td>$0,06</td><td>0,8%</td></tr><tr><th scope="row">Políticas Productivas con Perspectiva de Género</th><td>$7,00</td><td>0,19%</td><td>$0,52</td><td>7,4%</td></tr><tr><th scope="row">Inclusión Social Laboral</th><td>$5,06</td><td>0,14%</td><td>$0,06</td><td>1,1%</td></tr><tr><th scope="row">Comercialización Asociativa y Ferias</th><td>$1,15</td><td>0,03%</td><td>$0,18</td><td>15,3%</td></tr><tr><th scope="row">Total 17 programas</th><td>$722,06</td><td>19,37%</td><td>$230,68</td><td>31,9%</td></tr></tbody></table></div>
 <p>Núcleo industrial. Promoción Industrial, Fortalecimiento Productivo, Agencia de Exportaciones y Centro de Producción devengaron $21,2 M en seis meses: el 0,005% del presupuesto vigente del municipio. Los 17 programas de la unidad 1.1.1.01.04 sumaron $230,7 M devengados sobre $722,1 M vigentes; representan el 19,4% de los $3.726,89 M asignados a la Secretaría en el presupuesto inicial.</p>
 <p>Para dimensionarlo: en ese mismo semestre el programa de Higiene Urbana devengó $27.127.874.049 y el Concejo Deliberante $2.875.136.085. El cuerpo legislativo del partido gastó 135 veces más que el núcleo industrial de cuatro programas. Frente a los 17 programas de Producción, gastó 12,5 veces más.</p>
 <p>El programa de Habilitaciones y Permisos merece un párrafo propio. Tenía $7.531.000 asignados y ejecutó $61.261, menos del uno por ciento. Esa baja ejecución debe leerse junto con los instrumentos que el municipio sí tiene en funcionamiento: un Portal de Autogestión de Comercios e Industrias y un Asesor Virtual de Habilitaciones Express. Su existencia muestra avances en digitalización, aunque no equivale a una habilitación gratuita, instantánea y universal como la aplicada en otros distritos.</p>
@@ -631,75 +510,7 @@
 <p>La lección de Morón es incómoda para cualquier diagnóstico rápido: la carga tributaria importa, pero no alcanza para explicar el desempeño. Lo que distingue a los municipios que resisten no es solo que cobren menos. Es que tienen una política, la tienen escrita, la tienen financiada y la sostienen en el tiempo.</p>
 <p>San Martín tiene la peor combinación: impuestos altos y baja inversión. Le falta una verdadera política industrial. Está en el peor de los mundos.</p>
 <h3>5.4 Cuadro comparativo</h3>
-<p>General San Martín</p>
-<p>Tres de Febrero</p>
-<p>San Miguel</p>
-<p>Morón</p>
-<p>Puestos industriales (jun. 2025)</p>
-<p>35.983</p>
-<p>26.672</p>
-<p>3.710</p>
-<p>~8.700 (estimado)</p>
-<p>Variación ene. 2024 - jun. 2025</p>
-<p>-3,93%</p>
-<p>+1,37%</p>
-<p>+0,27%</p>
-<p>-1,04%</p>
-<p>Régimen promocional industrial</p>
-<p>Programa MiPyME, hasta 2 años</p>
-<p>RIGI municipal, hasta 15 años</p>
-<p>Escalonado, hasta 10 años</p>
-<p>Parques con beneficios</p>
-<p>Escala TISH industrial</p>
-<p>5‰ a 15‰ por facturación</p>
-<p>Exención hasta 15 años (RIGI)</p>
-<p>Exención escalonada, hasta 10 años</p>
-<p>7‰ a 16‰ + mínimo por complejidad ambiental</p>
-<p>Estabilidad tributaria</p>
-<p>No</p>
-<p>TISH congelada 30 años</p>
-<p>Régimen promocional</p>
-<p>No localizada</p>
-<p>Habilitación gratuita</p>
-<p>Hasta 100% para MiPyME</p>
-<p>Sí, universal</p>
-<p>Hasta 200 m²</p>
-<p>No localizada</p>
-<p>Habilitación instantánea</p>
-<p>Digital; no automática universal</p>
-<p>Sí, más de 70 rubros</p>
-<p>Online, 24 horas</p>
-<p>No localizada</p>
-<p>Tasa vial</p>
-<p>Sí, 35% de ALSMI</p>
-<p>No se aplica</p>
-<p>No localizada</p>
-<p>No localizada</p>
-<p>Crédito fiscal por contratación</p>
-<p>No</p>
-<p>Sí</p>
-<p>No localizado</p>
-<p>No localizado</p>
-<p>Parques industriales</p>
-<p>No localizados</p>
-<p>—</p>
-<p>Sí, con infraestructura</p>
-<p>Cuatro</p>
-<p>Gasto en personal</p>
-<p>48,7% del presupuesto total (2026)</p>
-<p>26,76% del gasto total (2026)</p>
-<p>No localizado (ejecución sin agregar por carácter económico)</p>
-<p>52,9% del gasto corriente (2025)</p>
-<p>Gasto de capital / presupuesto total</p>
-<p>1,58% sancionado / 3,7% vigente (2026)</p>
-<p>No localizado</p>
-<p>No localizado</p>
-<p>15,78% (2025)</p>
-<p>Presupuesto por habitante</p>
-<p>~$739.000 (2026)</p>
-<p>~$520.000 (2026)</p>
-<p>~$673.700 (2026)</p>
-<p>No localizado</p>
+<div class="report-table-scroll"><table class="report-data-table columns-5"><caption>5.4 Cuadro comparativo</caption><thead><tr><th scope="col">Indicador</th><th scope="col">General San Martín</th><th scope="col">Tres de Febrero</th><th scope="col">San Miguel</th><th scope="col">Morón</th></tr></thead><tbody><tr><th scope="row">Puestos industriales (jun. 2025)</th><td>35.983</td><td>26.672</td><td>3.710</td><td>~8.700 (estimado)</td></tr><tr><th scope="row">Variación ene. 2024 - jun. 2025</th><td>-3,93%</td><td>+1,37%</td><td>+0,27%</td><td>-1,04%</td></tr><tr><th scope="row">Régimen promocional industrial</th><td>Programa MiPyME, hasta 2 años</td><td>RIGI municipal, hasta 15 años</td><td>Escalonado, hasta 10 años</td><td>Parques con beneficios</td></tr><tr><th scope="row">Escala TISH industrial</th><td>5‰ a 15‰ por facturación</td><td>Exención hasta 15 años (RIGI)</td><td>Exención escalonada, hasta 10 años</td><td>7‰ a 16‰ + mínimo por complejidad ambiental</td></tr><tr><th scope="row">Estabilidad tributaria</th><td>No</td><td>TISH congelada 30 años</td><td>Régimen promocional</td><td>No localizada</td></tr><tr><th scope="row">Habilitación gratuita</th><td>Hasta 100% para MiPyME</td><td>Sí, universal</td><td>Hasta 200 m²</td><td>No localizada</td></tr><tr><th scope="row">Habilitación instantánea</th><td>Digital; no automática universal</td><td>Sí, más de 70 rubros</td><td>Online, 24 horas</td><td>No localizada</td></tr><tr><th scope="row">Tasa vial</th><td>Sí, 35% de ALSMI</td><td>No se aplica</td><td>No localizada</td><td>No localizada</td></tr><tr><th scope="row">Crédito fiscal por contratación</th><td>No</td><td>Sí</td><td>No localizado</td><td>No localizado</td></tr><tr><th scope="row">Parques industriales</th><td>No localizados</td><td>—</td><td>Sí, con infraestructura</td><td>Cuatro</td></tr><tr class="highlight-row"><th scope="row">Gasto en personal</th><td>48,7% del presupuesto total (2026)</td><td>26,76% del gasto total (2026)</td><td>No localizado (ejecución sin agregar por carácter económico)</td><td>52,9% del gasto corriente (2025)</td></tr><tr><th scope="row">Gasto de capital / presupuesto total</th><td>1,58% sancionado / 3,7% vigente (2026)</td><td>No localizado</td><td>No localizado</td><td>15,78% (2025)</td></tr><tr><th scope="row">Presupuesto por habitante</th><td>~$739.000 (2026)</td><td>~$520.000 (2026)</td><td>~$673.700 (2026)</td><td>No localizado</td></tr></tbody></table></div>
 <p>Las celdas marcadas como &quot;no localizado&quot; indican que la búsqueda documental de este informe no halló la medida o la cifra agregada, no que se afirme su inexistencia. La ejecución presupuestaria de San Miguel está publicada por partida principal y no permite reconstruir sin margen de error los totales de personal y capital sin procesar cientos de páginas de detalle; se prefirió dejar la celda vacía antes que estimarla. Los datos de Morón corresponden a ejercicios 2024-2025, no 2026 como el resto de la fila de San Martín; se mantienen por ser la única fuente oficial disponible y porque la magnitud de las diferencias (gasto de capital diez veces mayor en proporción) excede cualquier variación atribuible al desfasaje de un año.</p>
 <h2>6. Propuestas</h2>
 <p>Las propuestas se ordenan por nivel de gobierno, porque el problema no se resuelve en un solo escalón. Un intendente no puede bajar Ingresos Brutos ni las cargas patronales, pero tampoco puede permanecer indiferente, pues es precisamente el intendente quien debe representar al municipio frente a la provincia. Tampoco puede escudarse en eso para no hacer lo que sí depende de él.</p>
