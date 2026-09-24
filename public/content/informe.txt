@@ -523,7 +523,7 @@ San Martín tiene la peor combinación: impuestos altos y baja inversión. Le fa
 	35.983
 	26.672
 	3.710
-	~8.700 (estimación; fuente y método pendientes de documentar)
+	~8.700 (estimado)
 	Variación ene. 2024 - jun. 2025
 	-3,93%
 	+1,37%
