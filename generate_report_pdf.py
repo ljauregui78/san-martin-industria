@@ -73,7 +73,7 @@ def page_header(canvas, doc):
         textColor=NAVY,
         alignment=TA_RIGHT,
     )
-    author_text = "Carlos Brown y Luciano Jáuregui"
+    author_text = "Carlos R. Brown y Luciano Jáuregui"
     block = Paragraph(author_text, author_style)
     block_width = 112 * mm
     _, block_height = block.wrap(block_width, 24 * mm)
@@ -247,7 +247,7 @@ def build_story(text):
             story.append(para(line, lead))
             i += 1
             continue
-        if line.startswith("Por Carlos Brown y Luciano Jáuregui") or line == "Movimiento Productivo Argentino / ACEP San Martín.":
+        if line.startswith("Por Carlos R. Brown y Luciano Jáuregui") or line == "Movimiento Productivo Argentino / ACEP San Martín.":
             flush()
             story.append(para(line, meta))
             i += 1
@@ -332,7 +332,7 @@ doc = BaseDocTemplate(
     topMargin=39 * mm,
     bottomMargin=17 * mm,
     title="San Martín: la capital que dejó de cuidar su industria",
-    author="Carlos Brown y Luciano Jáuregui",
+    author="Carlos R. Brown y Luciano Jáuregui",
     subject="Diagnóstico comparado de la política productiva municipal",
 )
 frame = Frame(doc.leftMargin, doc.bottomMargin, doc_width, page_height - doc.topMargin - doc.bottomMargin, id="report")
